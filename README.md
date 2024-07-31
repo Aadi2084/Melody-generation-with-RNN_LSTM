@@ -29,6 +29,9 @@ Modify the configuration parameters in the respective scripts and notebooks to s
 Detailed documentation can be found within each Jupyter Notebook and script file:
 
 ML_innovative.ipynb: Innovative machine learning techniques.
+
 pre_process.ipynb: Data preprocessing steps.
+
 train_bi_LSTM.py: Training script for the bi-directional LSTM model.
+
 melodygenerator_1.py: Script to generate melodies.
